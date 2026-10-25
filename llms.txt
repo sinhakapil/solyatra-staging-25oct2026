@@ -1,0 +1,22 @@
+## Pages
+- [| SolYatra](/villagedetail): No description available
+- [| SolYatra Blogs](/blogs/:slug): No description available
+- [| SolYatra Journey](/expeditions/gulabi-kantha-trek): No description available
+- [Book Your Adventure -  | SolYatra](/book/:type/:slug): No description available
+- [Cancellation & Refund Policy | SolYatra](/cancellation): Read the Cancellation and Refund Policy for booking treks and journeys with SolYatra. Version 1.0, effective 5 September 2026.
+- [Contact Us - SolYatra](/contact): Plan your Himalayan journey with SolYatra. Phone, WhatsApp, or email. Based in Sankri, Uttarkashi, Uttarakhand.
+- [Curated Himalayan Journeys | SolYatra](/curated-treks): Handpicked Himalayan treks from Sankri. Small groups, local guides, all-inclusive pricing from Rs 15999.
+- [Frequently Asked Questions - SolYatra](/faqs): Find answers to common questions about booking, preparation, safety, and what to expect on SolYatra treks.
+- [Himalayan Treks & Village Journeys | SolYatra](/treks): Discover curated, mindful Himalayan journeys. Curated trekking experiences guided by local experts.
+- [Journey Essentials - SolYatra | Readiness, Safety & Policies](/safety): Everything you need to know to prepare for your Himalayan journey with SolYatra. Safety protocols, fitness guides, packing lists, and our ethical principles.
+- [Our Story | SolYatra](/about): The SolYatra story — born in the Himalayas, guided by local wisdom, built on mindful, unhurried travel through Sankri and the high valleys of Uttarakhand.
+- [Privacy Policy | SolYatra](/privacy-policy): Privacy Policy for SolYatra Adventures LLP. Version 1.0, effective 5 September 2026.
+- [Ruinsara Taal Trek | SolYatra](/trek/ruinsara-lake): Trek to the mystical Ruinsara Taal with SolYatra. An 8-day journey through ancient forests to a sacred high-altitude lake.
+- [SolYatra | Slow Journeys into Himalayan Life](/): Curated Himalayan treks and village immersions from Sankri, Uttarakhand. Walk slowly through deep mountains with local guides. SolYatra — journeys that stay with you.
+- [SolYatra Prive | Bespoke Himalayan Journeys](/prive): Bespoke private Himalayan journeys designed around your rhythm. Custom itineraries, private camps, and personalised experiences in the Garhwal Himalayas with SolYatra.
+- [Terms & Conditions | SolYatra](/terms): Terms and Conditions for booking treks and journeys with SolYatra. Version 1.0, effective 5 September 2026.
+- [The SolYatra Story | SolYatra](/story): The story of how SolYatra was born in the Himalayas, guided by local wisdom and a passion for mindful travel.
+- [Typography Comparison | SolYatra](/design-comparison): No description available
+- [Typography System | SolYatra](/design-system): No description available
+- [Village Immersions | SolYatra](/village-experiences): Stay within Himalayan culture at Sankri village homestays. Experience mountain cooking, local traditions, and the rhythm of village life in Uttarakhand with SolYatra.
+- [Voices from the Himalayas | SolYatra](/blog): Stories from the trail — trek reflections, village life, and Himalayan philosophy from the SolYatra journal.
